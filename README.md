@@ -1,4 +1,4 @@
-# 🏛️ Data Warehouse con Arquitectura Medallion (SQL Server)
+#  Data Warehouse con Arquitectura Medallion (SQL Server)
 
 Proyecto de Ingeniería de Datos para la construcción de un Almacén de Datos moderno utilizando **Microsoft SQL Server**, aplicando la **Arquitectura Medallion (Bronze, Silver, Gold)** y modelado dimensional en estrella (**Star Schema**).
 

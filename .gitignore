@@ -1,0 +1,11 @@
+# Visual Studio / SSMS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
